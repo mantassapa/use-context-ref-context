@@ -1,0 +1,29 @@
+.Senelis{
+    height: 800px;
+    width: 800px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Tevas{
+    height: 600px;
+    width: 600px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Vaikas{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coloredChild{
+    width: 100px;
+    height: 50px;
+}
