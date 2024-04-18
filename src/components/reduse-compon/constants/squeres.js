@@ -1,0 +1,2 @@
+export const ADDSQUERES="ADDSQUERES"
+export const DELSQUERES="DELSQUERES"

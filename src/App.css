@@ -27,3 +27,9 @@
     width: 100px;
     height: 50px;
 }
+.squere{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;  
+    margin: 10px;
+}
